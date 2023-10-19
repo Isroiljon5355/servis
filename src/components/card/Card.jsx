@@ -15,12 +15,12 @@ const data = [
     },
     {
         id: 2,
-        title: "Santexnika xizmatlari",
+        title: "Santexnik va elektrik xizmatlari",
         icon: faWrench,
     },
     {
         id: 3,
-        title: "Boxolash xizmatlari",
+        title: "Baxolash xizmatlari",
         icon: faDna,
     },
     {
@@ -30,7 +30,7 @@ const data = [
     },
     {
         id: 5,
-        title: "Qurlish xizmatlari",
+        title: "Qurilish xizmatlari",
         icon: faPersonDigging
     },
 ]
