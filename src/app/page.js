@@ -5,7 +5,7 @@ import Card from '@/components/card/Card'
 export default function Home() {
   return (
     <main className={styles.main}>
-      <div className="min-h-screen bg-indigo-50 ">
+      <div className="relative min-h-screen bg-indigo-50 ">
         <Navbar/>
         <Card/>
       </div>

@@ -37,7 +37,7 @@ const data = [
 
 function Card() {
     return (
-        <div>
+        <div className=" pt-28">
             <h1 className="text-indigo-600 text-3xl text-center mt-6 font-semibold">Bizdagi mavjud xizmatlar</h1>
             <main>
                 <div className="container w-full  md:px-20 mx-auto py-20">
